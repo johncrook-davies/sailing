@@ -28,8 +28,8 @@
   - Starboard - pointy top
 * Colour:
   - Depends on IALA region
-  - In IALA A, port is red and starbord is green
-  - In IALA A, port is green and starbord is red
+  - In IALA A, port is red and starboard is green
+  - In IALA A, port is green and starboard is red
 * Lights:
   - Any red sequence other than 2+1
   - Any green sequence other than 2+1
@@ -55,7 +55,7 @@
   - East - 3 flashes, could be any length
   - West - 9 flashes, could be any length
 ### Isolated danger mark
-* Purpose: Sits on top of danger - give wide berth
+* Purpose: Sits on top of danger - give wide berth, no agreed distance for this, just common sense
 * Shape: Two balls on top
 * Colour: Red and black
 * Lights
@@ -89,7 +89,11 @@
   - Starboard: Triangle top mark
   - Port: Flat top mark
 * Colour:
-  - Starboard: Green, red then green
-  - Port: Red, green then red
+  - Starboard:
+    - For IALA A: Green, red then green
+    - For IALA B: Red, green then red
+  - Port:
+    - For IALA A: Red, green then red
+    - For IALA B: Green, red then green
 ### Other Notes
 - the Reed's skippers handbook is a good book to have to be able to identify buoys and a range of other useful stuff
