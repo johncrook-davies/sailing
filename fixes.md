@@ -1,0 +1,47 @@
+# Fixes
+## General considerations
+* Accuracy becomes less important the further away from danger you are
+## Three point
+### Things to note
+* If it's a dangerous area you may need to 'hove-too' (stop) to take bearing, but if safe you can take it underway.
+* Picking a marker:
+  - markers that are close to each other are useless as they create large margins of error
+  - reciprocal markers (ones that are either side of the boat) may not converge to a point, meaning the fix doesn't work
+  - markers that are too far away cause fixes that have too large an error
+  - if there are no artificial markers you can use the edges of land
+  - using stuff that is fixed in the bottom of the sea is much better than buoys and non-fixed structures
+### How to do it
+1. Pick three markers
+2. Note the time that you took the bearings
+3. Note your log reading - how far you've travelled through the water
+4. Note the depth (to check that makes sense once plotted on the chart)
+5. Take bearings of markers - note that using a hand compass means that no deviation is assumed so the bearing reading is magnetic (M).
+  a) take bearing of marker that is going to change most given your current heading (so the thing at a lateral orientation to your current direction of travel)
+  b) next take a bearing of the next most affected marker
+  c) last bearing should be taken of the marker that is most on your beam
+6. Convert from magnetic to true by applying variation
+7. On the chart
+  a) draw lines that represent the bearings with arrows pointing away from the markers
+  b) circle the position of the boat - in the resulting triangle mark the estimated position of the boat in the middle of that triangle, unless there is danger nearby, in which case you note the position of the boat to be the point in the trangle closest to the danger.
+  c) at this point check that the depth makes sense (roughly working out tidal height above chart datum for that time of day) this is just a sense check
+  d) note the time
+  e) in brackets beneath the time, note the log reading
+## Two points
+* Also use the depth
+* In this case you can
+  1. take the bearings of the two points
+  2. work out the tide
+  3. measure the depth and plot depth 'reduced to soundings' (chart datum)
+  4. mark depth on chart with
+      - arrows on two bearings
+      - arrows on contour
+      - mark time and log on chart as normal
+## Other methods
+* If you're right next to a charted mark then it is simple to mark that position on the chart
+* Use a transit
+  1. on the chart draw a line straight through the two markers in the transit - this means you are definitely on that line
+  2. use one more marker to get a cross on that line - this is accurate at least in one dimension
+* Use GPS (making sure 'horizontal datum' type matches chart), as an alternative to using the lat and long, you could:
+  1. mark current waypoint on chart (square with cross through it)
+  2. use the bearing to waypoint output to draw line at bearing orientation coming from line
+  3. use distance output from the gps to measure how long along the line we are

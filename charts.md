@@ -26,6 +26,9 @@
  - it defines navigation mark (IALA - international assosiation of lighthouse authorities) for coming into port
 * The bottom left of the chart has a 'Notice to Mariners' which defines the last correction to the chart applied. You can use this to go to the UKHO (UK Hydrographic Organisation) website ro look for charg corrections since that date. Find the relevant changes by finding changes that are after the notice to mariners version number. You can then draw these in with a magenta pen. Alternatively there might be a piece of chart to glue on top of the current chart
 * Maintained depths are shown as x.xm but spot depths are shown as X x.
+* 'Horizontal datum' type should be noted on the chart. Need to make sure GPS is same schema as the chart. GPS units can be configured to match charts. Positions are equally accurate but assume a slightly different centre of the planet, there is around a quarter of a mile difference between these two schemas for example:
+  - 'WGS84'
+  - 'EU1950' or 'EU50'
 ## Projections
 ### 'Mercator'
 Mercator was a Belgian that figured out a formula to represent a spherical grid on a flat piece of paper. Placing a light in the center of a globe, this would be the shadow cast by the land and lines of longitude and lattitude, of a piece of paper were wrapped around the equator. This means that as you get closer to the pole land masses get bigger. For the same reason, the scale is defined only at a certain lattitude oin the chart. The shortest distance between two points on this chart is called a 'Great Circle' and is curved.

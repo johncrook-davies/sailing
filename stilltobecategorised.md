@@ -6,6 +6,9 @@
 * Bearing is the direction that one thing (could be anything) from another
 * Draft is the distance from the water line to the bottom of the keel
 
+* Leigh (or leward) shore is the shore on to which wind is blowing
+* Velocity Made Good (VMG) is the speed at which you are going from one point to another given tacks etc.
+
 ## Boat dimensions
 * Vertical
 
@@ -16,8 +19,18 @@
  2. go the pages that are referenced
  3.
 
+
+
+# GPS
+## Outputs
+* Waypoint (predefined)
+  - range and bearing are defined relative to this, range is distance to waypoint and bearing is bearing that must be steared to get there
+  - symbol is a square with a cross through it
+* Range
+* Bearing
+
 ## Todo
-* Questions 1-10 on pages 10-11 of exercise book
+* Page 12 all questions
 * Get in touch with Berenice to get this book
 
 ## Practical

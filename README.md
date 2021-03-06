@@ -1,6 +1,11 @@
 # Notes on sailing
 
 ## Contents
+* anchoring.md
+  - Scope
+  - Considerations
+  - Types of anchor
+  - How to test how well anchor is holding
 * buoyage.md
   - Light sequences and notation
   - List of buoys: Shapes, colours and lights
@@ -13,6 +18,11 @@
   - Concepts of direction
   - Variation
   - Deviation
+* fixes.md
+  - General considerations
+  - Three points
+  - Two points
+  - Other methods
 * tides.md
   - What effects them
   - Using an Almanac
