@@ -44,10 +44,10 @@
   * West - pointing towards
 * Colour:
   * General rule is arrows always point towards black
-  * North - black then yellow
-  * South - yellow then black
-  * East - black, yellow, black
-  * West - yellow, black, yellow
+  * North - black then yellow (BY)
+  * South - yellow then black (YB)
+  * East - black, yellow, black (BYB)
+  * West - yellow, black, yellow (YBY)
 * Lights:
   - Similar to a clock in terms of number of flashes
   - North - continuous flashes, could be any length
@@ -57,14 +57,14 @@
 ### Isolated danger mark
 * Purpose: Sits on top of danger - give wide berth, no agreed distance for this, just common sense
 * Shape: Two balls on top
-* Colour: Red and black
+* Colour: Black, red and black (BRB)
 * Lights
   - Best remembered by 'Go away', or 'eff off'
   - 2 white flashes in some sequence
 ### Safe water mark/Fairway buoy
 * Purpose: Marks the point when you are clear of stuff that needs careful consideration eg. When coming out of a river and into open water. Coming from the other direction it marks the point at which more careful navigation is required.
 * Shape: Round top mark
-* Colour: Red and white stripes
+* Colour: Red and white stripes (RW)
 * Lights: Isophase white or occulting white, or morse A (Mo A) which is short then long, or long flash
 ### Special marker
 * Purpose: Various miscellaneous purposes such as marking out race boundaries, radar testing/fixing etc.
@@ -72,28 +72,28 @@
 * Colour: Yellow
 * Lights:
   - Yellow or orange (usually quite feeble)
-  - Any flash other than the ones used of the other buoys, could be FI(4), 1+something etc.
+  - Any flash other than the white flashes used by the other buoys, could be FI(4), 1+something etc.
 ### Emergency wreck buoy
 * Marks a new wreck
 * Shape: Cross top mark
-* Colour: Blue and yellow
+* Colour: Blue and yellow (BU.Y)
 * Light: On for 1s in blue, off for half a second, on for 1s in yellow, off for half a second
 ### Preferred channel markers
-* Where a channel splits it marks the preferred route. You can take the other one as well but the other channel is better.
-  - Starboard: Port channel is the preferred route
-  - Port: Starboard channel is the preferred route
+* Where a channel splits it marks the preferred route. You can take the other one as well but the other channel is better. Colour denends on where the channel is, not where you leave it (as for lateral markers)
+  - Port: Port channel is the preferred route
+  - Starboard: Starboard channel is the preferred route
 * Lights:
-  - Starboard: Green 2+1
-  - Port: Red 2+1
+  - Port: Green 2+1
+  - Starboard: Red 2+1
 * Shape:
-  - Starboard: Triangle top mark
-  - Port: Flat top mark
+  - Port: Triangle top mark
+  - Starboard: Flat top mark
 * Colour:
-  - Starboard:
-    - For IALA A: Green, red then green
-    - For IALA B: Red, green then red
   - Port:
-    - For IALA A: Red, green then red
-    - For IALA B: Green, red then green
+    - For IALA A: Green, red then green (GRG)
+    - For IALA B: Red, green then red (RGR)
+  - Starboard:
+    - For IALA A: Red, green then red (RGR)
+    - For IALA B: Green, red then green (GRG)
 ### Other Notes
 - the Reed's skippers handbook is a good book to have to be able to identify buoys and a range of other useful stuff
