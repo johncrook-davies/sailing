@@ -20,3 +20,9 @@
 
 ## Todo
 * Questions 1-10 on pages 10-11 of exercise book
+* Get in touch with Berenice to get this book
+
+## Practical
+* 5 people maximum - will be a mixture of competant crew and day skipper
+* 5 day course
+* 17th May first time to do it
