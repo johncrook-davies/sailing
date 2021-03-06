@@ -1,6 +1,6 @@
 # Charts
 
-##  General info
+##  Important components and markings
 * Most charts have 'spot depths' that are in meters, some are in feet
 * The 'spot depths' are depths in the 'chart datum' scenario
 * 'chart datum' is lowest astronomical tide or 'zero tide', not the same as low tide, this is when tidal information is zero
@@ -13,7 +13,7 @@
 - In the top right of the chart there is a 'source data' section which shows when each bit of the chart was measured and how - gives an idea of reliability
 - Broken contour lines means unlikely to be reliable
 - The 'compass rose' is used for two things, it is used for both parallel rules and to tell us what the difference is between true north and magnetic north is, or the 'magnetic variation'
-- 'vertical clearence heights' are defined as a number with a line above and a line below with arrows or lines pointing to number
+- 'vertical clearance heights' are defined as a number with a line above and a line below with arrows or lines pointing to number
 - squiggly lines are called 'overfalls' which are choppy water
 - there are arrows that are defined as 'direction of boyage where not obvious' which shows the direction that you need to be going in to interpret the bouys
 * There are other arrows that define traffic zones
@@ -25,14 +25,16 @@
  - there is also a small table of tidal heights but there is a bigger one in the almanac
  - it defines navigation mark (IALA - international assosiation of lighthouse authorities) for coming into port
 * The bottom left of the chart has a 'Notice to Mariners' which defines the last correction to the chart applied. You can use this to go to the UKHO (UK Hydrographic Organisation) website ro look for charg corrections since that date. Find the relevant changes by finding changes that are after the notice to mariners version number. You can then draw these in with a magenta pen. Alternatively there might be a piece of chart to glue on top of the current chart
- Projection:
-  - 'Mercator' Mercator was a Belgian that figured out a formula to represent a spherical grid on a flat piece of paper. Placing a light in the center of a globe, this would be the shadow cast by the land and lines of longitude and lattitude, of a piece of paper were wrapped around the equator. This means that as you get closer to the pole land masses get bigger. For the same reason, the scale is defined only at a certain lattitude oin the chart. The shortest distance between two points on this chart is called a 'Great Circle' and is curved.
-  - 'Transverse Mercator' is used for large scale, small area charts. This is where the piece of paper is wrapped round the other way, from pole to pole. This is accurate around the meridian that it is based on and then there is distortion the further away from that meridian you go.
-  - 'Gnomonic projection' or 'UPS' (won't be tested on for day skipper) - the projection that would be cast if a flat piece of paper is illuminated by the light from a globe. Gnomonic the light is in the center of the globe. UPS the light is at the top of the globe. These are used for ocean crossings. A straight line (Rhumb line) on this projection is the shortest distance between two points.
-
+* Maintained depths are shown as x.xm but spot depths are shown as X x.
+## Projections
+### 'Mercator'
+Mercator was a Belgian that figured out a formula to represent a spherical grid on a flat piece of paper. Placing a light in the center of a globe, this would be the shadow cast by the land and lines of longitude and lattitude, of a piece of paper were wrapped around the equator. This means that as you get closer to the pole land masses get bigger. For the same reason, the scale is defined only at a certain lattitude oin the chart. The shortest distance between two points on this chart is called a 'Great Circle' and is curved.
+### 'Transverse Mercator'
+Used for large scale, small area charts. This is where the piece of paper is wrapped round the other way, from pole to pole. This is accurate around the meridian that it is based on and then there is distortion the further away from that meridian you go.
+### 'Gnomonic projection' or 'UPS' (won't be tested on for day skipper)
+The projection that would be cast if a flat piece of paper is illuminated by the light from a globe. Gnomonic the light is in the center of the globe. UPS the light is at the top of the globe. These are used for ocean crossings. A straight line (Rhumb line) on this projection is the shortest distance between two points.
 ## Latitude and longitude
 * On a chart - numbers of longitude and latitude can be written in places that seem a bit random
-
 * Latitude:
   - Lines of latitude are called parallels
   - Left and right scales on a chart
@@ -55,6 +57,7 @@
   - Minutes are broken down into decimal places of a minute (GPS units use 3dp)
   - 180 degrees west is the same as 180 degrees east (this is the international date line)
   - Longitude cannot be translated into distance because it is completely different at the poles compared to the equator
+## Measuring distances and bearings
 * Measuring distance on a chart:
   1. Split dividers so that one end is on the first point and the other end is on the second point that you are Measuring
   2. With the dividers fixed in that position, place them against the latitude scale to measure the number of Nm

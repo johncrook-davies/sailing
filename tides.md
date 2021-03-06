@@ -1,13 +1,21 @@
 # Tides
 
-## General
+## What effects them
 * Neap tides are when the moon and the sun are acting on the earth at a perpendicular angle
 * Spring tides are when the moon and the sun are either both on the same side of the earth or on opposite sides
 * Neap and spring tides therefore alternate around 7 days between each (28 days for a full cycle)
 * The strength of neap and spring tides is affected by the apogee and perigee of the moon.
   - Tidal ranges peak when The moon is at perigee
+* There are a number of places that you can get tidal information from:
+  - You can get tidal heights from tidal guages (there's one in the entrance to Portsmouth and at Cowes)
+  - Harbour websites (such as Bembridge) may have live tidal information
+  - Tidal apps such as UKHO's EasyTide
+* Mean sea level pressure is 1013.5mb
+  - This means that the tide changes by 1cm per mb difference to mean sea level pressure
+  - Storm surges occur when it is a springs tide and the pressure is very low
+* Wind also affects tides, wind blowing towards land increases the tide closer to the land and wind blowing away from land decreases the tide closer to the land
 
-## Almanac
+## Using an Almanac
 * Almanacs are specific to each calendar year
 * Inside page shows the chart covered by the almanac
 * There's loads of information on the first few pages covering a number of different bits
@@ -53,7 +61,7 @@
   * By taking a fix of the light, you can use these distances to do a fix on the chart
   * Heights on the chart are defined as at Mean High Water Springs (MHWS)
 
-## How to get a tidal height at any time of day
+## Getting the tidal height for any time of day
   1. depending on whether the curve for the area is HW reference or LW, get the time for the nearest HW/LW
   2. fill in the times under the curve
     - thick lines on chart are hours, thin lines are 10 mins
@@ -65,7 +73,8 @@
     - for tidal ranges between the tidal range, interpolate between the two curves
     - for tidal ranges on or above the mean HWS/HWN/LWS/LWN use the exact red or blue lines for springs or neaps respectively
 
-## To find out when a specific height of tide will occur (for clearence or to ensure safe depth)
+## Getting the time when a specific height of tide will occur
+Used for clearance or to ensure safe depth.
   1. follow steps 1-4 above
   2. draw a straight line from the required tide to the line
   3. draw a horizontal line to the relevant part of the curve (determined in step 1 part 2)

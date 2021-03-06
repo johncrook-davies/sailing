@@ -1,15 +1,13 @@
-# Notes on sailing
-
+## General notes
 * Universal time is equivalent to GMT
 
+## Boat dynamics
 * Heading is the direction that the boat is travelling in
 * Bearing is the direction that one thing (could be anything) from another
 * Draft is the distance from the water line to the bottom of the keel
 
-
-
-### Deviation curve
-
+## Boat dimensions
+* Vertical
 
 ## 5011
 * This is a comprehensive list of symbols on the charts

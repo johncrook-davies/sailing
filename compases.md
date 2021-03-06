@@ -1,4 +1,5 @@
 # Compasses
+## Concepts of direction
 * Directions are defined with either 'T' for true, 'M' for magnetic or 'C' for compass in brackets
 * 'True virgins Make dull Companions' - TvMdC
   - True -> (apply) variation -> Magnetic -> (apply deviation) -> Compass

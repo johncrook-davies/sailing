@@ -1,5 +1,5 @@
-# Buoys and lights
-## Lights
+# Buoyage
+## Light sequences and notation
 * The default light colour is white
 * The time dictates the time taken for one sequence
 * Occulting - Occ - on for longer than it's off
@@ -8,7 +8,7 @@
 * Flashing - FI - flashes that are quick (Q), very quick (VQ) or ultra quick (UQ)
 * Group flashing - FI(n) - groups of flashes followed by darkness
 * Always on - F - continuous light
-## Buoys
+## List of buoys: Shapes, colours and lights
 ### Intro
 * There are 12 buoys in total
 * Must be able to recognise buoys by:
@@ -65,7 +65,7 @@
 * Purpose: Marks the point when you are clear of stuff that needs careful consideration eg. When coming out of a river and into open water. Coming from the other direction it marks the point at which more careful navigation is required.
 * Shape: Round top mark
 * Colour: Red and white stripes
-* Lights: Isophase white or occulting white, or morse A (Mo A) which is short then long
+* Lights: Isophase white or occulting white, or morse A (Mo A) which is short then long, or long flash
 ### Special marker
 * Purpose: Various miscellaneous purposes such as marking out race boundaries, radar testing/fixing etc.
 * Shape: X on top
