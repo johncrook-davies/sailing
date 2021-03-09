@@ -23,6 +23,7 @@
   - Three points
   - Two points
   - Other methods
+  - Dead reckoning
 * tides.md
   - What effects them
   - Using an Almanac

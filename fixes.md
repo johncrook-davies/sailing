@@ -45,3 +45,18 @@
   1. mark current waypoint on chart (square with cross through it)
   2. use the bearing to waypoint output to draw line at bearing orientation coming from line
   3. use distance output from the gps to measure how long along the line we are
+
+## Dead reckoning
+### Tracks
+#### Water track
+* represents the direction sand distance travelled through the water, at the end of this track is the 'dead reckoning' this is represented on the chart by a small perpendicular line through the water track
+* represented on the chart by a line with one arrow pointing along it
+#### Tidal track
+* represents the direction of tide plus distance that an object would be moved by tide of the time period
+* represented on the chart by line with three arrows on it
+#### Ground track
+* the direction and distance travelled over the ground or over the surface of the planet - always a combination of what the boat does through the water plus what the tide is doing
+* represented on the chart by a line with two arrows pointing along it
+### Estimated position (EP)
+* this is the position at the end of the ground track and is the estimated position on the chart of the boat
+* represented on the chart by a dot with a triangle round it

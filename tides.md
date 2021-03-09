@@ -79,3 +79,27 @@ Used for clearance or to ensure safe depth.
   2. draw a straight line from the required tide to the line
   3. draw a horizontal line to the relevant part of the curve (determined in step 1 part 2)
   4. draw a vertical line down to the time
+
+## Tidal streams
+* the 'set' or 'direction' of the tide is the direction that the tide is flowing
+* the 'drift' or 'rate' of the tide is the speed
+### Sources for tidal stream information:
+#### the almanac
+* has a diagram of the tidal streams where the tidal streams are represented by arrows,
+* each arrow has two figures separated by a dot
+  - the smaller number is the speed in knots at neaps and;
+  -  the larger number is the speed in knots at springs (each number is actually a decimal)
+* the direction of the stream can be worked out by using the plotter directly on the page (as would be done on the chart) - must use the frame of the page to get a straight line for the plotter
+* information is good for half an hour either side of the time referenced at the top (eg high water, one hour after high water etc.)
+#### the chart
+* find the nearest tidal diamond to your location
+* at the top of the chart there is a table showing the directions and speeds of tide
+* for charts, the tidal streams table is usually defined referencing one of the major ports on the chart
+* often there is no diamond in the place where you need it, and in this case you need to go look at the almanac instead
+### Working out tidal direction using the almanac
+1. find the times of the HW and LW that stradle the time range that you'd like the tidal stream information for
+2. find the range between HW and LW and compare that to springs and neaps to figure out where you are in that range
+3. work out how many hours before or after high water you are - the tidal stream information is good for half an hour either side of
+4. use this to find the right page in the almanac or right row in the tidal information table at the top of the chart
+5. if using the almanac, once you've fouind the right page, measure the bearing of the tidal stream and get the relevant speed from the number on the right side of the decimal place
+6. write answer as "set {bearing} drift {speed}"
