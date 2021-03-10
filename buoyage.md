@@ -3,11 +3,14 @@
 * The default light colour is white
 * The time dictates the time taken for one sequence
 * Occulting - Occ - on for longer than it's off
-* Group occulting - Occ(n) - must occult twice over the time period
+* Group occulting - Occ(n) - must occult twice over the time period, note that for groups of occulting sequences
 * Isophase - Iso - on for as long as it's off
 * Flashing - FI - flashes that are quick (Q), very quick (VQ) or ultra quick (UQ)
 * Group flashing - FI(n) - groups of flashes followed by darkness
 * Always on - F - continuous light
+* Small 'm' denotes the height of the light (above MHWS)
+* Big 'M' denotes nautical miles and represents the distance from which the light is visible
+* Two colours concatenated together eg 'WR' for white and red, denotes a light that has two filters that are visible from different sectors - this sort of light might mark out a safe channel where a 'safe', 'white' sector is sandwiched between red and green lights. These lights often have a number of visibility distances to match the number of colours, separated by a '/', in the same order as the colours.
 ## List of buoys: Shapes, colours and lights
 ### Intro
 * There are 12 buoys in total

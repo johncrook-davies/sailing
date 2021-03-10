@@ -60,3 +60,25 @@
 ### Estimated position (EP)
 * this is the position at the end of the ground track and is the estimated position on the chart of the boat
 * represented on the chart by a dot with a triangle round it
+* must also record time and log reading next to the EP on the chart
+* COG is 'course over ground' and is the heading that is estimated to have been travelled over the surface of the earth
+* SOG is 'speed over ground' and is the speed that is estimated to have been travelled over the surface of the earth
+### Projected EP
+* this is exactly the same as a normal EP except that the speed is an estimate given wind and all available information
+### Circle of uncertainty
+* there are a lot of potential errors with EPs
+  - the log might be incorrect
+  - the helmsman won't be able to secure an accurate course
+  - leeway will be inexact
+  - tidal streams are inexact
+* depending on a judgement of the above factors we estimate the error as either 5, 10 or 15% of the distance travelled over water (so taken as a percentage of the water track) - this is represented as circle around the EP on the chart
+* circle of uncertainty must not touch a dangerous area marked on the chart because this means we cannot be sure that the boat is not in danger
+### Leeway
+* this is the effect of getting pushed sideways by the wind (whilst being being close hauled or on a reach - does not occur on a broad reach)
+* this is difficult to measure and so is often 'best guess'
+* leeway is measured in degrees and is a direction
+* when the wind is ahead of the beam, the leeway effect is strongest because the boat is heeled over and so the keel is doing a poorer job at keeping the boat from going sideways
+* wind can be drawn on the chart for ease of calculation
+* always apply leeway after variation
+* leeway can only be worked out from comparing a fully adjusted estimated COG and actual COG
+* leeway is reflected into the water track - this is the line on the chart that is adjusted for leeway

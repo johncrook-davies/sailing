@@ -18,8 +18,6 @@
  1. find the thing that looks like the symbol you're after
  2. go the pages that are referenced
 
-
-
 # GPS
 ## Outputs
 * Range and bearing fix (taken from waypoint)
