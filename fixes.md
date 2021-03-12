@@ -54,6 +54,7 @@
 #### Tidal track
 * represents the direction of tide plus distance that an object would be moved by tide of the time period
 * represented on the chart by line with three arrows on it
+* for time periods that are >1hr or that run into the next tidal period (1, 2, 3 hours after high water) use a composite tidal track, draw
 #### Ground track
 * the direction and distance travelled over the ground or over the surface of the planet - always a combination of what the boat does through the water plus what the tide is doing
 * represented on the chart by a line with two arrows pointing along it

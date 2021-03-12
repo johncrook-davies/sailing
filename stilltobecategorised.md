@@ -30,4 +30,4 @@
 * Bearing
 
 ## Todo
-* Page 13 questions 1 and 2
+...
