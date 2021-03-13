@@ -29,3 +29,7 @@
   - Using an Almanac
   - Getting the tidal height for any time of day
   - Getting the time when a specific height of tide will occur
+* irpsc.md
+  - Assessment of collision risk
+  - Lights and shapes
+  - Right of way
