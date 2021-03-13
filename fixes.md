@@ -66,7 +66,7 @@
 * SOG is 'speed over ground' and is the speed that is estimated to have been travelled over the surface of the earth
 ### Projected EP
 * this is exactly the same as a normal EP except that the speed is an estimate given wind and all available information
-### Circle of uncertainty
+### Circle of uncertainty (not in day skipper paper)
 * there are a lot of potential errors with EPs
   - the log might be incorrect
   - the helmsman won't be able to secure an accurate course
