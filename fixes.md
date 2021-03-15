@@ -83,3 +83,45 @@
 * always apply leeway after variation
 * leeway can only be worked out from comparing a fully adjusted estimated COG and actual COG
 * leeway is reflected into the water track - this is the line on the chart that is adjusted for leeway
+
+## Course to steer
+* the course to steer is the course that gives the fastest path between two points
+* the key things that we are interested in in terms of course to steer are
+  1. the course to steer
+  2. the SOG
+  3. the time
+* to work this out:
+  1. work out how far the distance is between the two points (A to B)
+  2. write down the distance and the boat speed
+  3. decide on the duration of plot - choose half an hour, 1 hour or multiples of hours (do this to avoid complicated mathematics)
+  4. draw a ground track between the two points (and then beyond the later point)
+  5. find the tide for the time period
+  6. draw the tidal track eminating from the start point
+  7. work out how far along the ground track you will travel in the time period (0.5hrs, 2, 3, 4... hours)
+  8. draw the water track between the position on te ground track that you will hit after the time period and the end of the tidal track
+  9. the length of this line is the SOG
+  10. the angle of this line is the true CTS (must adjust this for variation and leeway to get a course to )
+  11. get the time it will take to get from one point to another by
+    a) measuring the distance along the ground track between the two points
+    b) dividing that by the SOG
+  12. once we have worked out all of this we can get rid of the water track and the tidal track because we have the information we needed
+  13. if speed differs significantly from what we had thought then we were going to do then we will need to revise our course to steer
+* for time periods <= 1 hour the course to steer gives a course that keeps the boad on the ground track
+* if the course to steer is worked out over two hours, then the boat will not stay on the ground track, it will deviate from the ground track before returning back towards it
+
+## Cross chanel course to steer (will not be tested for day skipper)
+* to find the fastest possible course to steer across the channel, rather than drawing a huge horrible composite tidal track, use a rough aggregate using the following process:
+  1. draw ground track
+  2. establish what speed you are going to go
+  3. work out tide that you are going to face hour by hour by hour using a piece of paper
+    a) mark on a piece of paper nautical mile intervals representing the hours of the passage
+    b) on the first page, place the piece of paper on the rough course and note the speed and the direction of the tide
+    c) do the same on the next page and so on and so on until you have speeds and directions for all hours of the journey
+  4. then going back to the ground track, mark the arrows on the chart, either side of the ground track
+  5. tally up the tidal speeds on each side of the ground track
+  6. the difference between the two tallys is the aggregate tide for the whole time
+  7. the aggregate is the tidal track for the entire journey
+  8. draw the water track
+  9. consider the rough true ground track to investigate dangers that might be encountered - if there are no dangers on this ground track then we accept that we will be dragged about with the tide and use this as our course to steer. To do this use composite tidal tracks layered on top of the course to steer. Do this every few hours
+* note that if it's going to take you 12 hours to get anywhere then steering the ground track course will be a safe bet because the tides will cancel out (6 hours one way, 6 hours the other)
+* if there is uneven number of hours in each direction then always better to aim to be slightly upstream of the location tide wise, otherwise the final few miles will be spent battling tide to get to the location.
