@@ -125,3 +125,38 @@
   9. consider the rough true ground track to investigate dangers that might be encountered - if there are no dangers on this ground track then we accept that we will be dragged about with the tide and use this as our course to steer. To do this use composite tidal tracks layered on top of the course to steer. Do this every few hours
 * note that if it's going to take you 12 hours to get anywhere then steering the ground track course will be a safe bet because the tides will cancel out (6 hours one way, 6 hours the other)
 * if there is uneven number of hours in each direction then always better to aim to be slightly upstream of the location tide wise, otherwise the final few miles will be spent battling tide to get to the location.
+
+## Pilotage
+### General
+* GPS not always most useful for smaller scale navigation, often have to resort to traditional methods
+* always look at the pilotage notes in the Almanac
+* the shell channel pilot is also useful to have on board (there are different pilot books for different areas) this book has photographs of what the important markers on the chart look like as well as detailed notes and more useful pictures of the area
+### Plans
+* define a starting point first in safe water
+* useful to have a pilotage plan which is essentially a drawing of the area with:
+  - prominent markers
+  - courses
+  - transits marked
+  - bearings
+* as an alternative you can use a 'rolling road'
+  - draw two tram lines
+  - either side of the tram lines draw what you will see
+  - in the center of the tram lines note the bearing
+  - can draw contours on next to the tram lines
+* another alternative is just to have bullet pointed instructions
+### Tactics
+* forward bearing
+  1. take a bearing of a prominent marker on a line that avoids danger
+  2. keep the bearing constant to avoid the dander
+  3. make course alternations:
+    - if bearing increases must turm to starboard
+    - if bearing goes down must turn to port
+* back bearing - same process as forward bearing but taken from behind instead of the front
+  - if bearing increases, turn to port
+  - if bearing decreases, turn to starboard
+back bearings are a really good option because it is usually taken based on markers that we have recently passed and so we can easily identify
+* cross bearing - wait for bearing on a marker to read a defined level, once it hits this level then make course alteration and proceed on new forward/back bearing
+* clearing bearing - define a bearing on a prominent marker beyond which it is not safe to proceed
+* tacking cone - two clearing bearings funelling in between zones of danger
+* transit - whether set up or made up by us, keep two points in line to mark a safe path
+* depth contours - use two contours to mark a safe path, useful when in a channel, in this case choose the starboard side rather than the centre so that you know which way to turn when the depth starts getting shallower

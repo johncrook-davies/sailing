@@ -63,4 +63,6 @@
 * Bearing
 
 ## Todo
-* Page 17 - questions 3 and 4
+* Page 9 - questions 12-15
+* Page 15 - all questions
+* Page 16 - question 3

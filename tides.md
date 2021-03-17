@@ -1,5 +1,9 @@
 # Tides
 
+## Terminology
+* Tides that are acting against our course in any way are described as 'foul' tides.
+* South going tides come from the south (contrary to the direction of wind), north going tides come from the north etc.
+
 ## What effects them
 * Neap tides are when the moon and the sun are acting on the earth at a perpendicular angle
 * Spring tides are when the moon and the sun are either both on the same side of the earth or on opposite sides
