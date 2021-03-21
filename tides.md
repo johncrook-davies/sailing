@@ -30,6 +30,7 @@
 * The next page has chart symbol definitions (a more comprehensive list can be found in the 5011)
 * Next page shows springs etc
 * A 'tidal gate' is a place where the tide is very strong which is a problem for slow boats or 'craft'
+* Very important to read almanacs when planning pilotage
 ### Tidal directions
 * The next pages show tidal directions
 * The first number is the speed at neeps

@@ -29,6 +29,11 @@
     - pass stern through direction of wind
     - sails change side
 
+* Trip is measured over ground
+* Log is always through the water
+* Passage plan is the entire journey plan
+* Pilotage plan is just the plan for exiting/entering harbour
+
 ## 5011
 * This is a comprehensive list of symbols on the charts
 * At the back of the book is a load of pictures - here you
@@ -54,7 +59,7 @@
 # GPS
 ## Outputs
 * Range and bearing fix (taken from waypoint)
-  - range and bearing are defined relative to this, range is distance to waypoint and bearing is bearing that must be steared to get there
+  - range and bearing are defined relative to this, range is distance to waypoint and bearing is bearing that must be steered to get there
   - waypoint symbol is a square with a cross through it
   - fix taken from GPS is just as the normal fix - a dot with a circle round it
 * Lat and long
@@ -63,6 +68,5 @@
 * Bearing
 
 ## Todo
-* Page 9 - questions 12-15
-* Page 15 - all questions
-* Page 16 - question 3
+* Do stuff that Tom sent through
+* Learn col regs

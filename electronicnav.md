@@ -5,7 +5,7 @@
   - show information
   - click on markers to get more information
 * Raster charts are just straight copies of a paper chart
-# Outputs
+## Outputs
 * Vessel position
 * Maybe cursor position too (careful not to mix these up)
 * SOG
@@ -13,7 +13,7 @@
 * Depth
 * Time (time can be set to any time zone)
 * MOB mode indicator
-* Water track
+* Water track - called heading on a GPS plotter
 * Ground track
 * Intended ground track to waypoint
 * Hovering the cursor over chart features gives details of the features, such as colour, IALA system, pattern, topmark, lights and sounds
@@ -27,6 +27,7 @@
 * AIS overlay - highlighting potential danger vessels
 * Radar overlay - showing land against chart, buoys as blobs (the width of the bandwidth, the smaller the radar the bigger the band, the further away the radar, the bigger the band), ring width, VRM (variable range marker) which is a circle placed around the radar that can be lined up against markers ont he chart to get range, EBL (electronic bearing line) a straight line bearing, using the VRM and EBL we can do a radar plot of our position getting the distance and the bearing to the marker
 * Display - either 'north up', 'head up' or 'course up' (or for radar 'RM' - relative motion) - this is the orientation of the display
+* Triangle with exclamation mark - physical danger to boat requiring further investigation
 ## Configuration
 * Units of distance, speed, depth etc. Can be set
 * Geodetic datum can be set

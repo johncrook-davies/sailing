@@ -25,7 +25,7 @@
 
 ## Important specific rules
 * Must know numbers and how to apply these rules
-* Rule 5 - whilst underway maintain lookout at all times by sight and all appropriate means for the prevailing conditions (eg. AIS, VHS)
+* Rule 5 - whilst underway maintain lookout at all times by sight and all appropriate means for the prevailing conditions (eg. AIS, VHF)
 * Rule 9 - in narrow channels:
   a) keep as far to outer limit that is on the starboard side
   b) mustn't impede passage of vessels that can only navigate within channel
