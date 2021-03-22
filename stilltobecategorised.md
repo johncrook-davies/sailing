@@ -68,5 +68,6 @@
 * Bearing
 
 ## Todo
-* Do stuff that Tom sent through
-* Learn col regs
+* Do extra questions on tidal height
+* Flick throuh day skipper book and come back to session with any questions
+* Pages 6 and 7

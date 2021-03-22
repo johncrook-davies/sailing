@@ -135,7 +135,7 @@
 * purse seine fishing
   - red over white with two flashing lights on the side where the net is
 * towing
-  - from stearn of pulling boat to stern of tow
+  - from stern of pulling boat to stern of tow
   - day shape - under 200m - one diamond, over 200m a diamond on each
   - lights
     - under 200m - two white 225 degree arc lights on top of each other, over 200m three 225 degree arc lights on top of each other
