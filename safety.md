@@ -41,11 +41,22 @@
     - three turns for safety
     - don't release jammer without taking a turn
     - keep fingers clear
+## Lifejackets
+* all lifejackets have:
+  - whistle
+  - inflation tube
+  - retro-reflective tape
+* some lifejackets also have
+  - automatic inflation when hitting water
+  - a light
+  - crotch or theigh straps
+* children and adults cannot use the same lifejackets
 ## Emergency position indicating radio beacon (ERIRB) or personal locator beacon (PLB)
 * big battery attached to a GPS beacon
 * set off when abandoning ship
-* sends position to receiving station who can arrange a rescue
+* sends position via satellite to receiving station (in the UK that is Falmouth) who can arrange a rescue
 * EPIRB lasts around 4 days, PLB lasts around a day or two
+* when buying one you need to register it with station (Falmouth) then give contact that can be contacted to verify there is an emergency
 ## Search and rescue transponder (SART)
 * radar transponder
 * used by rescuers to locate you
@@ -63,9 +74,9 @@
 * follow up with voice mayday on channel 16
 * maydays are to be sent in situations of grave and iminent danger
 * voice mayday consists of:
-  - M - Mayday x3
-  - I - ID x3 MMSI No. and callsign
-  - R - repeat MMSI No. and callsign
+  - M - Maydayx3
+  - I - IDx3 MMSI No x1. and callsign x1
+  - R - repeat MMSI No x1. and callsign x1
   - P - position in Lat/Long or if not position from something
   - D - distress - what is the issue
   - A - actions - what are we doing about it
@@ -90,7 +101,7 @@
   - increase angle if cloudy to make sure it goes off below cloud
 * orange smoke
   - for about 3 minutes
-  - for helicopters
+  - for helicopters - god for them because it shows which way the wind is blowing
 * there are lots of different mechanisms for flares
 * make sure you hold the flare by the handle, maybe keep a glove in the canister
 * hold well away
@@ -114,11 +125,14 @@
   - launch the liferaft
   - pull on painter to inflate
   - get the heaviest/strongest in there first to stabilise it
-  - cut the painter using round-blated knife in raft, stream the sea anchor/drogue to prevent capsize and minimise downwind drift, close the canopy and maintain the canopy (bail out water to keep dry, keep door shut or open to let air in)
+  - cut the painter using round-blated knife in raft
+  - stream the sea anchor/drogue to prevent capsize and minimise downwind drift
+  - close the canopy and maintain the canopy (bail out water to keep dry, keep door shut or open to let air in)
   - avoid eating in first 24 hours to put body in starvation mode so it needs less water
   - post a 24hour lookout
 * helicopter rescue
   - clear cockpit to reduce chances of snag
+  - have an empty bucket ready to flate the highline so it doesn't get snagged
   - speak to them as much as possible
   - they will ask you to sail close hauled on a port tack to help them
   - rescuer will drop down on a high line - let this discharge in the water to discharge static

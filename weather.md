@@ -177,6 +177,7 @@
   - rapid changes in wind direction
   - fetch
   - the direction that you are sailing in - relative wind speed
+  - tide - when tide is moving in the opposite direction to wind this can produce a short sea which is unpleasant, particularly for motor boats
 * Forces:
   1. 1-3 kts - light airs and good sea state
   2. 4-6 kts - light beaze - could get the boats going up wind

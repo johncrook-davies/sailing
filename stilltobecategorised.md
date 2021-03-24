@@ -56,6 +56,16 @@
   - broad reach - wind off the bow
   - dead run - wind directly on bow, gib/genoa could be opposite side from main sail
 
+## Seamanship
+### Coming along side
+* always use 4 ropes when coming along side
+* bow line, stern line, bow spring and stern spring
+* this stops the boat moving forwards, backwards or laterally
+* good knots for securing to a ring on a pontoon or wall are
+  - bowline
+  - round turn and two half hitches
+* rig port and starboard sides for coming along side - this ensures that whether we come along side forward or backwards we are rigged correctly
+
 # GPS
 ## Outputs
 * Range and bearing fix (taken from waypoint)
@@ -68,6 +78,4 @@
 * Bearing
 
 ## Todo
-* Do extra questions on tidal height
-* Flick throuh day skipper book and come back to session with any questions
-* Pages 6 and 7
+* questions on page 19 and page 21
