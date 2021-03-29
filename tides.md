@@ -108,3 +108,23 @@ Used for clearance or to ensure safe depth.
 4. use this to find the right page in the almanac or right row in the tidal information table at the top of the chart
 5. if using the almanac, once you've fouind the right page, measure the bearing of the tidal stream and get the relevant speed from the number on the right side of the decimal place
 6. write answer as "set {bearing} drift {speed}"
+
+## Secondary ports (will not apear on exam)
+* table in the almanac gives:
+  - the standard port to use as a reference when working out HOT
+  - the differences in HW times
+  - the HW times that those differences are relevant for
+  - same for LW
+  - MHWS, MHWN, MLWN and MLWS
+  - the differences to those heights
+* work out the HOT in a secondary port
+  1. get relevant high tide and low tide, and times - stay in UT for the moment
+  2. work out range and determine whether range is:
+    - neaps
+    - springs
+    - % springs
+  3. for HW time, interpolate between HW times in secondary port table to get the number of minutes/hours difference (do interpolation - or perhaps extrapolation in minutes)
+  4. interpolate between the MHWS values to get the height difference at the specific height (normal interpolation/extrapolation)
+  5. do the same for LW (normal interpolation/extrapolation)
+  6. using interpolated figures, convert HW time, HW height and LW height to secondary port figures
+  7. carry out normal HOT process with standard port tidal curve

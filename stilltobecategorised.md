@@ -78,4 +78,4 @@
 * Bearing
 
 ## Todo
-* questions on page 19 and page 21
+* questions on page 14 - then send answers to Tom

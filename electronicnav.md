@@ -5,6 +5,25 @@
   - show information
   - click on markers to get more information
 * Raster charts are just straight copies of a paper chart
+* brands of GPS:
+  - GPS
+  - Glonass
+  - Beidou
+  - Galileao
+* terms
+    - WPT - waypoint
+    - COG - course over ground
+    - SOG - speed over ground
+    - TTG - time to go
+    - BTW - baring to waypoint
+    - DTW - distance to waypoint
+    - XTE - cross track error (error to port or starboard of ground track to waypoint) (sometimes activated using 'rolling road mode' or 'cross track error mode')
+    - ETA - estimated time of arrival
+    - VMG - velocity made good (speed at which you are closing on your destination)
+    - HDOP - horizontal dilution of precision (a scale 0-10 measuring how accurate your position is - higher values are a worse position 9+ cannot be relied upon)
+    - proximity waypoint - an anti waypoint - something to avoid - a waypoint with a defined circumference that will trigger an alarm if GPS detects that you have strayed into that area
+* always back up GPS position with visual fix (at least every hour)
+
 ## Outputs
 * Vessel position
 * Maybe cursor position too (careful not to mix these up)
